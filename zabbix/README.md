@@ -19,9 +19,13 @@ apuntado a un servidor Zabbix real o mal configurado.
 
 ### Salida de ejemplo
 [OK]    zabbix-agent está corriendo
+
 [INFO]  Versión: zabbix_agentd (daemon) (Zabbix) 6.0.14
+
 [INFO]  Server:       127.0.0.1
+
 [ALERTA] Server apunta a localhost (127.0.0.1)
+
 [INFO]   El agente está corriendo pero NO reporta a un servidor Zabbix real
 
 ### Log
