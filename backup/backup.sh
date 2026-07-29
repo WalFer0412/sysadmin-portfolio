@@ -14,7 +14,7 @@ FECHA=$(date +%Y-%m-%d)
 # Directorios a respaldar
 DIRECTORIOS=(
     "/etc"
-    "/root/sysadmin-portfolio"
+    "/home/wferrari/sysadmin-portfolio"
     "/var/log/sysadmin"
 )
 
